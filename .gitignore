@@ -1,4 +1,5 @@
-*.cpp# Logs
+*.cpp
+# Logs
 logs
 *.log
 npm-debug.log*
