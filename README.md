@@ -1,2 +1,4 @@
-Some edits more
-XXXXXX
+XYZZZZZZZZ somAe new words
+A new line
+
+Getting Started
