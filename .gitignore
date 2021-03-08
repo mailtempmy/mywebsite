@@ -1,3 +1,4 @@
+*.cpp
 # Logs
 logs
 *.log
